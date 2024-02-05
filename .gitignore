@@ -2,3 +2,5 @@
 dist
 node.modules
 package-lock.json
+# Local Netlify folder
+.netlify
